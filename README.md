@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on copper (sdf modelling tool )<br>🌱 I’m currently specializing in graphics computing and gpu programming<br>⚡ Fun fact I placed 2nd on a national university valorant league
+🔭 I’m currently working on copper (sdf modelling tool )<br>🌱 I’m currently specializing in graphics computing and gpu programming, I also love design and ux/ui<br>⚡ Fun fact I placed 2nd on a national university valorant league
 
 
 ## 🌐 Socials:
