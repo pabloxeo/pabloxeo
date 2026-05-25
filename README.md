@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as Data Analyst at EY<br>🌱 I’m currently specializing in graphics computing and gpu programming.<br>⚡ Currently learning Vulkan
+🔭 I’m currently working as Data Analyst at EY<br>🌱 Specializing in graphics computing and gpu programming.<br>⚡ Learning Vulkan
 
 
 ## 🌐 Socials:
